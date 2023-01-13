@@ -1,0 +1,26 @@
+{
+  "name": "book-record-mngt",
+  "version": "1.0.0",
+  "description": "Book Record Management Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Sneha/book_record_management.git"
+  },
+  "author": "sneha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Sneha/book_record_management/issues"
+  },
+  "homepage": "https://github.com/S-Sneha/book_record_management#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
