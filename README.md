@@ -1,10 +1,10 @@
 # book-record-management API
 
 # /users
- /users (done)
+ /users 
 POST: Create a new user GET: Get all list of users
 
-/users/{id} (done)
+/users/{id}
 GET: Get a user by thier ID PUT: Update a user by ID DELETE: Delete a user by thier ID (Check if the user still has an issued book && is there any fine to be collected from the user)
 
 /users/subscription-details/{id}
